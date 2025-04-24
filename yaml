@@ -1,0 +1,22 @@
+
+---
+
+### ✅ 7. Hugging Face Spaces Deployment
+
+Hugging Face Spaces supports **FastAPI** apps via **Gradio** or `app.py`. You'll need:
+
+1. Push the code to a GitHub repo.
+2. Create a new Space on Hugging Face with:
+   - **Type**: "Gradio" or "Static"
+   - **SDK**: `fastapi`
+3. Set `app.py` as the entry point.
+4. Commit and push the code with a `README.md`, and Hugging Face will auto-deploy.
+
+---
+
+Would you like me to:
+- Generate the full zipped project structure?
+- Set up a GitHub repo template for you?
+- Prepare a `Dockerfile` for portable deployment?
+
+Let me know your next move, I can prep it for you fast.
